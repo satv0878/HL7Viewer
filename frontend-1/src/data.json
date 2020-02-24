@@ -1,0 +1,1304 @@
+[
+    {
+      "measurement": {
+        "_id": "5e4515c0d1fbf485c358b62c",
+        "type": "Height",
+        "value": "99.47",
+        "unit": "kg",
+        "precision": "68.16",
+        "date": "Friday, December 27, 2019 8:55 AM",
+        "created": "Friday, August 16, 2019 1:58 AM",
+        "device": {
+          "_id": "5e4515c04cb0f2c8ada96878",
+          "orgid": 100024414153,
+          "ip": "191.168.1.12",
+          "mac": "00-50-8B-B9-6E-2F",
+          "serial": 38250603222363060000
+        },
+        "user": {
+          "userid": "UID841172",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Ingrid",
+            "lastname": "Carney"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0e6e24a0abc2ac559",
+          "name": {
+            "firstname": "Pearlie",
+            "lastname": "Rice"
+          },
+          "patientId": "PID364639882",
+          "dateofbirth": "Sunday, March 5, 2017 9:42 PM",
+          "ethnicity": "caucasian",
+          "gender": "Other",
+          "company": "PRINTSPAN",
+          "email": "pearlie.rice@printspan.org",
+          "phone": "+49 (911) 492-3786",
+          "address": "502 Brightwater Avenue, Frizzleburg, Kansas, 2068",
+          "registered": "Monday, November 24, 2014 3:09 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c02e6a0d3eff40b901",
+        "type": "oxygen",
+        "value": "70.01",
+        "unit": "%",
+        "precision": "76.24",
+        "date": "Monday, June 17, 2019 8:33 PM",
+        "created": "Monday, April 23, 2018 5:44 PM",
+        "device": {
+          "_id": "5e4515c0fe07fddc21b3ede3",
+          "orgid": 100014614769,
+          "ip": "172.168.1.104",
+          "mac": "00-50-2F-B9-3F-2F",
+          "serial": 50166189934677500000
+        },
+        "user": {
+          "userid": "UID217824",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Kim",
+            "lastname": "Franks"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c02697e71ff45b88ad",
+          "name": {
+            "firstname": "Monica",
+            "lastname": "Emerson"
+          },
+          "patientId": "PID982243950",
+          "dateofbirth": "Thursday, August 24, 2017 7:25 AM",
+          "ethnicity": "african",
+          "gender": "Female",
+          "company": "LETPRO",
+          "email": "monica.emerson@letpro.ca",
+          "phone": "+49 (867) 425-2447",
+          "address": "953 Lincoln Place, Echo, Oregon, 3223",
+          "registered": "Friday, June 5, 2015 7:49 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c04b22f49595aa47c0",
+        "type": "Weight",
+        "value": "76.33",
+        "unit": "kg",
+        "precision": "95.51",
+        "date": "Friday, September 13, 2019 5:42 PM",
+        "created": "Thursday, March 29, 2018 1:54 AM",
+        "device": {
+          "_id": "5e4515c084b11ca6d4efaa3d",
+          "orgid": 1000132157270,
+          "ip": "192.168.1.177",
+          "mac": "00-50-E9-01-6E-2F",
+          "serial": 19640644975930126000
+        },
+        "user": {
+          "userid": "UID388976",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Jackson",
+            "lastname": "Weaver"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c033690535ced736e7",
+          "name": {
+            "firstname": "Rosales",
+            "lastname": "Odonnell"
+          },
+          "patientId": "PID455869724",
+          "dateofbirth": "Wednesday, July 7, 1971 5:43 PM",
+          "ethnicity": "african",
+          "gender": "Male",
+          "company": "VETRON",
+          "email": "rosales.odonnell@vetron.biz",
+          "phone": "+49 (962) 549-2857",
+          "address": "654 Hicks Street, Savage, Wisconsin, 3064",
+          "registered": "Friday, October 26, 2018 4:59 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0232d12e11764d757",
+        "type": "oxygen",
+        "value": "94.07",
+        "unit": "kg",
+        "precision": "95.92",
+        "date": "Sunday, September 1, 2019 5:48 PM",
+        "created": "Thursday, July 26, 2018 6:40 PM",
+        "device": {
+          "_id": "5e4515c0f0ce3d067c2828fe",
+          "orgid": 100048836941,
+          "ip": "172.168.1.239",
+          "mac": "00-60-8B-01-6E-20",
+          "serial": 31436040609419887000
+        },
+        "user": {
+          "userid": "UID781360",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Downs",
+            "lastname": "Pacheco"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c082bc7fac0534e085",
+          "name": {
+            "firstname": "Lori",
+            "lastname": "Bullock"
+          },
+          "patientId": "PID851624123",
+          "dateofbirth": "Wednesday, February 19, 2014 1:05 AM",
+          "ethnicity": "south-american",
+          "gender": "Male",
+          "company": "AUTOMON",
+          "email": "lori.bullock@automon.tv",
+          "phone": "+49 (964) 584-2117",
+          "address": "158 Dunham Place, Strykersville, Vermont, 2456",
+          "registered": "Thursday, November 8, 2018 11:48 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c08c39412ec9e23a97",
+        "type": "oxygen",
+        "value": "66.70",
+        "unit": "kg",
+        "precision": "81.83",
+        "date": "Friday, April 19, 2019 1:53 PM",
+        "created": "Wednesday, September 25, 2019 8:14 AM",
+        "device": {
+          "_id": "5e4515c04de82330886df7e2",
+          "orgid": 1000115231268,
+          "ip": "191.168.1.1",
+          "mac": "00-60-2F-01-6E-2F",
+          "serial": 35743458613028020000
+        },
+        "user": {
+          "userid": "UID805532",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Aguirre",
+            "lastname": "Marks"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c00b6a3b7820e7d71a",
+          "name": {
+            "firstname": "Marquita",
+            "lastname": "Whitfield"
+          },
+          "patientId": "PID787376826",
+          "dateofbirth": "Saturday, October 19, 2013 8:53 AM",
+          "ethnicity": "south-american",
+          "gender": "Male",
+          "company": "VURBO",
+          "email": "marquita.whitfield@vurbo.com",
+          "phone": "+49 (901) 485-2945",
+          "address": "691 Grand Avenue, Ballico, District Of Columbia, 7114",
+          "registered": "Wednesday, December 10, 2014 7:26 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0d31bc7e37ae9c5b7",
+        "type": "Weight",
+        "value": "50.18",
+        "unit": "%",
+        "precision": "97.65",
+        "date": "Saturday, November 23, 2019 3:48 AM",
+        "created": "Tuesday, February 19, 2019 4:44 AM",
+        "device": {
+          "_id": "5e4515c0abf51b8b9c19b534",
+          "orgid": 100090328798,
+          "ip": "191.168.1.200",
+          "mac": "00-07-8B-9F-3F-20",
+          "serial": 38536001810047760000
+        },
+        "user": {
+          "userid": "UID903759",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Cecelia",
+            "lastname": "Santiago"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c08d6858d5da1b4309",
+          "name": {
+            "firstname": "Concetta",
+            "lastname": "Dotson"
+          },
+          "patientId": "PID696837756",
+          "dateofbirth": "Sunday, September 25, 1983 8:23 PM",
+          "ethnicity": "african",
+          "gender": "Female",
+          "company": "KYAGORO",
+          "email": "concetta.dotson@kyagoro.biz",
+          "phone": "+49 (928) 454-2494",
+          "address": "737 Kent Street, Rew, Nebraska, 600",
+          "registered": "Sunday, October 21, 2018 8:39 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c01f435425a9fe0e51",
+        "type": "Height",
+        "value": "89.26",
+        "unit": "%",
+        "precision": "70.16",
+        "date": "Wednesday, July 24, 2019 11:19 PM",
+        "created": "Saturday, January 4, 2020 2:14 PM",
+        "device": {
+          "_id": "5e4515c0a0e05cca0c7491b7",
+          "orgid": 1000104401771,
+          "ip": "192.168.1.14",
+          "mac": "00-07-2F-B9-04-2F",
+          "serial": 67034430204784880000
+        },
+        "user": {
+          "userid": "UID137056",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Karyn",
+            "lastname": "Hicks"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0e787e6a65be75d02",
+          "name": {
+            "firstname": "Mack",
+            "lastname": "Barron"
+          },
+          "patientId": "PID704526525",
+          "dateofbirth": "Wednesday, December 23, 1987 5:06 PM",
+          "ethnicity": "african",
+          "gender": "Female",
+          "company": "SPHERIX",
+          "email": "mack.barron@spherix.net",
+          "phone": "+49 (828) 523-3082",
+          "address": "498 Fleet Place, Ada, Connecticut, 120",
+          "registered": "Friday, March 14, 2014 9:24 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0651e93386ba9229a",
+        "type": "oxygen",
+        "value": "71.06",
+        "unit": "m",
+        "precision": "94.04",
+        "date": "Thursday, August 2, 2018 9:46 PM",
+        "created": "Tuesday, January 14, 2020 4:43 PM",
+        "device": {
+          "_id": "5e4515c0965d5133d3274ad3",
+          "orgid": 100017407315,
+          "ip": "172.168.1.105",
+          "mac": "00-60-E9-B9-04-3B",
+          "serial": 41121213485883700000
+        },
+        "user": {
+          "userid": "UID531943",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Avila",
+            "lastname": "Case"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c05ebac924c92ad838",
+          "name": {
+            "firstname": "Schultz",
+            "lastname": "Caldwell"
+          },
+          "patientId": "PID813784080",
+          "dateofbirth": "Tuesday, March 15, 1994 8:43 PM",
+          "ethnicity": "south-american",
+          "gender": "Male",
+          "company": "ZENSOR",
+          "email": "schultz.caldwell@zensor.us",
+          "phone": "+49 (948) 454-3311",
+          "address": "842 Lester Court, Worcester, Oklahoma, 3819",
+          "registered": "Wednesday, September 11, 2019 10:57 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0444ffeec2bea6d20",
+        "type": "oxygen",
+        "value": "95.50",
+        "unit": "%",
+        "precision": "67.92",
+        "date": "Saturday, May 19, 2018 1:39 PM",
+        "created": "Sunday, August 11, 2019 6:42 AM",
+        "device": {
+          "_id": "5e4515c0126f49ba919c17d7",
+          "orgid": 100034915726,
+          "ip": "192.168.1.187",
+          "mac": "00-50-8B-9F-04-20",
+          "serial": 69174539265872730000
+        },
+        "user": {
+          "userid": "UID115987",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Jeanne",
+            "lastname": "Kirby"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c07bcb908b67a02dfb",
+          "name": {
+            "firstname": "Ina",
+            "lastname": "Burris"
+          },
+          "patientId": "PID79286538",
+          "dateofbirth": "Saturday, April 20, 2013 6:23 AM",
+          "ethnicity": "african",
+          "gender": "Male",
+          "company": "PROSURE",
+          "email": "ina.burris@prosure.info",
+          "phone": "+49 (997) 408-3992",
+          "address": "227 Ridgecrest Terrace, Mappsville, North Dakota, 4349",
+          "registered": "Saturday, January 3, 2015 8:53 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0bfa3322dc07611c6",
+        "type": "Weight",
+        "value": "66.95",
+        "unit": "%",
+        "precision": "66.18",
+        "date": "Friday, July 19, 2019 2:31 AM",
+        "created": "Friday, April 6, 2018 5:18 PM",
+        "device": {
+          "_id": "5e4515c08b4601b05109920c",
+          "orgid": 100048319731,
+          "ip": "191.168.1.226",
+          "mac": "00-50-2F-9F-04-2F",
+          "serial": 61518070236592540000
+        },
+        "user": {
+          "userid": "UID410711",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Fuentes",
+            "lastname": "Rich"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c02c27e7c529e5db2e",
+          "name": {
+            "firstname": "Head",
+            "lastname": "Nichols"
+          },
+          "patientId": "PID616602226",
+          "dateofbirth": "Monday, February 23, 1987 9:06 PM",
+          "ethnicity": "caucasian",
+          "gender": "Female",
+          "company": "COMTREK",
+          "email": "head.nichols@comtrek.me",
+          "phone": "+49 (978) 500-3752",
+          "address": "639 Cheever Place, Woodburn, Indiana, 551",
+          "registered": "Wednesday, June 11, 2014 8:47 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c041736318d01254b4",
+        "type": "Height",
+        "value": "74.82",
+        "unit": "kg",
+        "precision": "61.01",
+        "date": "Wednesday, February 14, 2018 6:23 AM",
+        "created": "Wednesday, March 14, 2018 4:09 PM",
+        "device": {
+          "_id": "5e4515c070983953e9ff119c",
+          "orgid": 100043549331,
+          "ip": "192.168.1.98",
+          "mac": "00-50-8B-9F-6E-2F",
+          "serial": 59886089905094700000
+        },
+        "user": {
+          "userid": "UID491895",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Horne",
+            "lastname": "Reeves"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c01152e735b947b032",
+          "name": {
+            "firstname": "Tracy",
+            "lastname": "Dyer"
+          },
+          "patientId": "PID586690490",
+          "dateofbirth": "Saturday, April 12, 2008 10:52 PM",
+          "ethnicity": "caucasian",
+          "gender": "Male",
+          "company": "ACUMENTOR",
+          "email": "tracy.dyer@acumentor.co.uk",
+          "phone": "+49 (849) 593-2907",
+          "address": "881 Seaview Avenue, Eagletown, Texas, 840",
+          "registered": "Wednesday, November 8, 2017 10:16 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c04a26b8e7582f37d9",
+        "type": "Height",
+        "value": "73.41",
+        "unit": "m",
+        "precision": "83.49",
+        "date": "Monday, April 22, 2019 3:31 PM",
+        "created": "Tuesday, May 29, 2018 2:36 AM",
+        "device": {
+          "_id": "5e4515c0ca5ac765df54a4c6",
+          "orgid": 100062874140,
+          "ip": "192.168.1.228",
+          "mac": "00-60-2F-9F-3F-2F",
+          "serial": 76695285129308110000
+        },
+        "user": {
+          "userid": "UID621475",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Regina",
+            "lastname": "Mclaughlin"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c08b0109cf0f62b93b",
+          "name": {
+            "firstname": "Luella",
+            "lastname": "Medina"
+          },
+          "patientId": "PID409381727",
+          "dateofbirth": "Friday, October 4, 1968 11:40 AM",
+          "ethnicity": "caucasian",
+          "gender": "Other",
+          "company": "NETBOOK",
+          "email": "luella.medina@netbook.io",
+          "phone": "+49 (836) 479-2520",
+          "address": "279 Underhill Avenue, Thatcher, Ohio, 2193",
+          "registered": "Saturday, June 7, 2014 8:36 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0325d66750d7e209f",
+        "type": "Height",
+        "value": "82.26",
+        "unit": "%",
+        "precision": "87.73",
+        "date": "Monday, August 6, 2018 6:55 AM",
+        "created": "Monday, January 6, 2020 3:31 PM",
+        "device": {
+          "_id": "5e4515c08b1f867f0c85a3d3",
+          "orgid": 1000143970426,
+          "ip": "192.168.1.116",
+          "mac": "00-50-E9-01-6E-20",
+          "serial": 72916972795220210000
+        },
+        "user": {
+          "userid": "UID750560",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Carr",
+            "lastname": "Blevins"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c097df2c1da874543b",
+          "name": {
+            "firstname": "Sofia",
+            "lastname": "Whitley"
+          },
+          "patientId": "PID482376822",
+          "dateofbirth": "Monday, December 25, 1967 5:22 AM",
+          "ethnicity": "south-american",
+          "gender": "Female",
+          "company": "OPTICALL",
+          "email": "sofia.whitley@opticall.org",
+          "phone": "+49 (873) 588-3044",
+          "address": "413 Windsor Place, Coventry, Minnesota, 1709",
+          "registered": "Thursday, December 4, 2014 6:30 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0f945d52b1593550c",
+        "type": "Weight",
+        "value": "53.88",
+        "unit": "%",
+        "precision": "99.98",
+        "date": "Sunday, January 5, 2020 7:48 AM",
+        "created": "Tuesday, April 9, 2019 1:14 AM",
+        "device": {
+          "_id": "5e4515c05ddc670173970286",
+          "orgid": 1000109498730,
+          "ip": "172.168.1.222",
+          "mac": "00-50-E9-9F-3F-20",
+          "serial": 15551566886024874000
+        },
+        "user": {
+          "userid": "UID158577",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Velasquez",
+            "lastname": "Fitzgerald"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c099bd6e89323c6ff3",
+          "name": {
+            "firstname": "Watson",
+            "lastname": "Bentley"
+          },
+          "patientId": "PID708980902",
+          "dateofbirth": "Wednesday, September 30, 2015 9:04 AM",
+          "ethnicity": "caucasian",
+          "gender": "Male",
+          "company": "QUIZKA",
+          "email": "watson.bentley@quizka.ca",
+          "phone": "+49 (956) 470-3158",
+          "address": "114 Howard Avenue, Leroy, Idaho, 2773",
+          "registered": "Wednesday, December 23, 2015 9:44 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0238356af103114df",
+        "type": "Height",
+        "value": "50.41",
+        "unit": "%",
+        "precision": "86.71",
+        "date": "Sunday, November 4, 2018 3:53 PM",
+        "created": "Saturday, October 13, 2018 3:43 AM",
+        "device": {
+          "_id": "5e4515c0ebe1fec64bbdc0c2",
+          "orgid": 100063437998,
+          "ip": "172.168.1.182",
+          "mac": "00-50-8B-B9-3F-20",
+          "serial": 16793055863423070000
+        },
+        "user": {
+          "userid": "UID196587",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Jeanine",
+            "lastname": "Simmons"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0ac9032a5a1620866",
+          "name": {
+            "firstname": "Tonya",
+            "lastname": "Robbins"
+          },
+          "patientId": "PID251775772",
+          "dateofbirth": "Thursday, February 22, 1990 1:01 AM",
+          "ethnicity": "south-american",
+          "gender": "Female",
+          "company": "JUMPSTACK",
+          "email": "tonya.robbins@jumpstack.biz",
+          "phone": "+49 (951) 564-2291",
+          "address": "811 Village Road, Osage, Alaska, 5628",
+          "registered": "Monday, May 18, 2015 9:03 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c05a7e0025436a1a8f",
+        "type": "Weight",
+        "value": "98.94",
+        "unit": "kg",
+        "precision": "87.26",
+        "date": "Sunday, August 12, 2018 4:17 AM",
+        "created": "Sunday, February 18, 2018 8:05 AM",
+        "device": {
+          "_id": "5e4515c08b0ac9eaff37fee7",
+          "orgid": 100016335982,
+          "ip": "172.168.1.95",
+          "mac": "00-60-E9-01-6E-20",
+          "serial": 31588173004650390000
+        },
+        "user": {
+          "userid": "UID375420",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Milagros",
+            "lastname": "Anthony"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0959fe64f6fbd5104",
+          "name": {
+            "firstname": "Middleton",
+            "lastname": "Bender"
+          },
+          "patientId": "PID864276985",
+          "dateofbirth": "Sunday, August 6, 1995 8:39 PM",
+          "ethnicity": "south-american",
+          "gender": "Male",
+          "company": "UNEEQ",
+          "email": "middleton.bender@uneeq.tv",
+          "phone": "+49 (887) 533-3089",
+          "address": "700 Lexington Avenue, Greenwich, New Hampshire, 5550",
+          "registered": "Friday, March 4, 2016 9:31 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c024988341ceeacc35",
+        "type": "Weight",
+        "value": "54.27",
+        "unit": "m",
+        "precision": "95.84",
+        "date": "Thursday, January 3, 2019 12:05 PM",
+        "created": "Wednesday, June 13, 2018 11:09 PM",
+        "device": {
+          "_id": "5e4515c0467c20ab17081b1d",
+          "orgid": 1000115244258,
+          "ip": "172.168.1.25",
+          "mac": "00-60-E9-B9-04-20",
+          "serial": 42733134560851485000
+        },
+        "user": {
+          "userid": "UID281955",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Mcintosh",
+            "lastname": "Fernandez"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c030b59271fe1ed587",
+          "name": {
+            "firstname": "Yang",
+            "lastname": "Burks"
+          },
+          "patientId": "PID337165737",
+          "dateofbirth": "Sunday, July 27, 2008 3:17 AM",
+          "ethnicity": "african",
+          "gender": "Female",
+          "company": "DADABASE",
+          "email": "yang.burks@dadabase.com",
+          "phone": "+49 (922) 541-3275",
+          "address": "640 Brevoort Place, Jennings, Marshall Islands, 1683",
+          "registered": "Monday, April 29, 2019 1:03 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0edcd84e45e963a73",
+        "type": "oxygen",
+        "value": "89.82",
+        "unit": "%",
+        "precision": "69.36",
+        "date": "Saturday, August 3, 2019 2:05 PM",
+        "created": "Tuesday, April 10, 2018 9:56 AM",
+        "device": {
+          "_id": "5e4515c0a4e4499400c9f114",
+          "orgid": 100052793227,
+          "ip": "192.168.1.155",
+          "mac": "00-60-8B-9F-6E-20",
+          "serial": 41225643279091310000
+        },
+        "user": {
+          "userid": "UID819999",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Frank",
+            "lastname": "Hurst"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c03dc81990c5f33240",
+          "name": {
+            "firstname": "Bethany",
+            "lastname": "Mayer"
+          },
+          "patientId": "PID392247024",
+          "dateofbirth": "Wednesday, April 27, 1994 4:22 PM",
+          "ethnicity": "african",
+          "gender": "Male",
+          "company": "HOTCAKES",
+          "email": "bethany.mayer@hotcakes.biz",
+          "phone": "+49 (969) 420-2566",
+          "address": "220 Cumberland Walk, Kraemer, Guam, 2666",
+          "registered": "Friday, August 28, 2015 7:12 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c08175666f01d2ada6",
+        "type": "Height",
+        "value": "84.73",
+        "unit": "%",
+        "precision": "70.67",
+        "date": "Wednesday, October 2, 2019 9:37 PM",
+        "created": "Tuesday, October 30, 2018 12:28 PM",
+        "device": {
+          "_id": "5e4515c0c233c032dd103d94",
+          "orgid": 1000111098907,
+          "ip": "172.168.1.142",
+          "mac": "00-07-2F-B9-6E-20",
+          "serial": 56387626630262350000
+        },
+        "user": {
+          "userid": "UID571423",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Stone",
+            "lastname": "Underwood"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0b4fd7e21dc148541",
+          "name": {
+            "firstname": "Terrie",
+            "lastname": "Delaney"
+          },
+          "patientId": "PID601157380",
+          "dateofbirth": "Thursday, February 29, 1996 10:35 PM",
+          "ethnicity": "caucasian",
+          "gender": "Other",
+          "company": "EARTHPLEX",
+          "email": "terrie.delaney@earthplex.net",
+          "phone": "+49 (920) 556-3219",
+          "address": "907 Goodwin Place, Accoville, Montana, 6454",
+          "registered": "Sunday, August 23, 2015 11:08 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c063ab53626e331a40",
+        "type": "Height",
+        "value": "60.74",
+        "unit": "%",
+        "precision": "68.97",
+        "date": "Monday, May 6, 2019 4:10 PM",
+        "created": "Thursday, August 22, 2019 8:18 PM",
+        "device": {
+          "_id": "5e4515c01cda74555ae02d8d",
+          "orgid": 1000128293319,
+          "ip": "172.168.1.162",
+          "mac": "00-60-E9-9F-04-20",
+          "serial": 83344867320950370000
+        },
+        "user": {
+          "userid": "UID69988",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Stacey",
+            "lastname": "Shaffer"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c00c02dfa5967e036e",
+          "name": {
+            "firstname": "Glass",
+            "lastname": "Duncan"
+          },
+          "patientId": "PID365883146",
+          "dateofbirth": "Monday, July 9, 1979 3:15 AM",
+          "ethnicity": "african",
+          "gender": "Male",
+          "company": "UXMOX",
+          "email": "glass.duncan@uxmox.us",
+          "phone": "+49 (857) 567-2329",
+          "address": "831 Clermont Avenue, Taft, Illinois, 8042",
+          "registered": "Wednesday, March 30, 2016 10:51 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c05f8ff7c54eba850c",
+        "type": "oxygen",
+        "value": "73.54",
+        "unit": "kg",
+        "precision": "83.26",
+        "date": "Sunday, December 29, 2019 3:09 AM",
+        "created": "Friday, August 31, 2018 7:55 AM",
+        "device": {
+          "_id": "5e4515c0d3f77d98640fefb1",
+          "orgid": 1000112491875,
+          "ip": "172.168.1.98",
+          "mac": "00-07-2F-9F-04-2F",
+          "serial": 79557662848284160000
+        },
+        "user": {
+          "userid": "UID274529",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Fanny",
+            "lastname": "Cash"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c07526c3f9c442fc9b",
+          "name": {
+            "firstname": "Austin",
+            "lastname": "Richmond"
+          },
+          "patientId": "PID209180303",
+          "dateofbirth": "Friday, September 26, 1997 5:38 AM",
+          "ethnicity": "south-american",
+          "gender": "Male",
+          "company": "PARCOE",
+          "email": "austin.richmond@parcoe.info",
+          "phone": "+49 (813) 570-3789",
+          "address": "191 Gerry Street, Stagecoach, Delaware, 4993",
+          "registered": "Thursday, May 5, 2016 4:06 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c017e7d812cfffd188",
+        "type": "oxygen",
+        "value": "77.26",
+        "unit": "kg",
+        "precision": "71.91",
+        "date": "Sunday, February 11, 2018 1:54 AM",
+        "created": "Sunday, October 7, 2018 3:20 AM",
+        "device": {
+          "_id": "5e4515c01976b344c99e128c",
+          "orgid": 100033725375,
+          "ip": "192.168.1.237",
+          "mac": "00-07-2F-01-04-3B",
+          "serial": 50041373448439810000
+        },
+        "user": {
+          "userid": "UID132955",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Richards",
+            "lastname": "Dominguez"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0501ee4df2d394f4c",
+          "name": {
+            "firstname": "Booker",
+            "lastname": "Owen"
+          },
+          "patientId": "PID409984147",
+          "dateofbirth": "Thursday, November 10, 1977 7:50 AM",
+          "ethnicity": "south-american",
+          "gender": "Male",
+          "company": "KEENGEN",
+          "email": "booker.owen@keengen.me",
+          "phone": "+49 (927) 570-2185",
+          "address": "400 Ridgewood Place, Strong, Colorado, 6499",
+          "registered": "Friday, January 10, 2020 3:09 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c032c78871f40b7724",
+        "type": "oxygen",
+        "value": "52.74",
+        "unit": "kg",
+        "precision": "71.35",
+        "date": "Saturday, March 17, 2018 10:19 PM",
+        "created": "Monday, April 1, 2019 1:57 AM",
+        "device": {
+          "_id": "5e4515c07f74fe5af4911876",
+          "orgid": 100048807006,
+          "ip": "172.168.1.206",
+          "mac": "00-60-2F-9F-6E-3B",
+          "serial": 61153922903814660000
+        },
+        "user": {
+          "userid": "UID952542",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Valarie",
+            "lastname": "Finley"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0a7766394797b15b2",
+          "name": {
+            "firstname": "Agnes",
+            "lastname": "Sandoval"
+          },
+          "patientId": "PID132841944",
+          "dateofbirth": "Thursday, August 5, 1971 6:11 AM",
+          "ethnicity": "caucasian",
+          "gender": "Other",
+          "company": "VERAQ",
+          "email": "agnes.sandoval@veraq.co.uk",
+          "phone": "+49 (811) 522-2031",
+          "address": "130 Belvidere Street, Brandermill, Kentucky, 8658",
+          "registered": "Friday, December 28, 2018 12:46 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0118121eb3cdb6bba",
+        "type": "Height",
+        "value": "71.62",
+        "unit": "m",
+        "precision": "77.08",
+        "date": "Friday, February 2, 2018 7:40 PM",
+        "created": "Monday, September 17, 2018 8:37 PM",
+        "device": {
+          "_id": "5e4515c00a878a9b88e15e0b",
+          "orgid": 100047425671,
+          "ip": "191.168.1.106",
+          "mac": "00-07-8B-9F-3F-2F",
+          "serial": 92981794955808950000
+        },
+        "user": {
+          "userid": "UID465271",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Cline",
+            "lastname": "Wong"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0dfdeb87a459c790c",
+          "name": {
+            "firstname": "Claudine",
+            "lastname": "Lang"
+          },
+          "patientId": "PID771689882",
+          "dateofbirth": "Thursday, August 19, 1982 2:53 AM",
+          "ethnicity": "caucasian",
+          "gender": "Male",
+          "company": "SARASONIC",
+          "email": "claudine.lang@sarasonic.io",
+          "phone": "+49 (880) 426-2405",
+          "address": "799 Ferry Place, Craig, Arkansas, 7440",
+          "registered": "Saturday, December 21, 2019 12:04 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0791e357844528596",
+        "type": "Height",
+        "value": "81.87",
+        "unit": "m",
+        "precision": "58.19",
+        "date": "Tuesday, March 26, 2019 12:44 PM",
+        "created": "Saturday, September 21, 2019 10:27 PM",
+        "device": {
+          "_id": "5e4515c03f651bdafe608b60",
+          "orgid": 1000101637830,
+          "ip": "191.168.1.161",
+          "mac": "00-07-8B-9F-04-3B",
+          "serial": 20749402351722790000
+        },
+        "user": {
+          "userid": "UID36593",
+          "role": "Nurse",
+          "name": {
+            "firstname": "Francis",
+            "lastname": "Curry"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c06359c136f0551cef",
+          "name": {
+            "firstname": "Jacqueline",
+            "lastname": "Matthews"
+          },
+          "patientId": "PID554103122",
+          "dateofbirth": "Thursday, June 9, 1960 8:44 AM",
+          "ethnicity": "south-american",
+          "gender": "Other",
+          "company": "ZERBINA",
+          "email": "jacqueline.matthews@zerbina.org",
+          "phone": "+49 (914) 447-3061",
+          "address": "518 Conover Street, Irwin, South Dakota, 2279",
+          "registered": "Wednesday, March 6, 2019 6:01 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0a06d446cef3c4dbd",
+        "type": "oxygen",
+        "value": "98.19",
+        "unit": "m",
+        "precision": "80.93",
+        "date": "Monday, February 19, 2018 10:32 AM",
+        "created": "Friday, May 31, 2019 5:19 AM",
+        "device": {
+          "_id": "5e4515c0faaf89250e863f8a",
+          "orgid": 1000119604446,
+          "ip": "192.168.1.84",
+          "mac": "00-50-2F-B9-04-3B",
+          "serial": 86211832823969400000
+        },
+        "user": {
+          "userid": "UID262338",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Peck",
+            "lastname": "Ryan"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0cb1309a985eb746a",
+          "name": {
+            "firstname": "Kirsten",
+            "lastname": "Ramos"
+          },
+          "patientId": "PID967088740",
+          "dateofbirth": "Monday, April 2, 2001 3:21 PM",
+          "ethnicity": "south-american",
+          "gender": "Female",
+          "company": "ANIMALIA",
+          "email": "kirsten.ramos@animalia.ca",
+          "phone": "+49 (968) 429-2066",
+          "address": "217 Bleecker Street, Hillsboro, Maine, 6819",
+          "registered": "Friday, August 14, 2015 11:25 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c091ec75118031a559",
+        "type": "oxygen",
+        "value": "72.67",
+        "unit": "m",
+        "precision": "62.59",
+        "date": "Tuesday, March 6, 2018 9:19 AM",
+        "created": "Thursday, September 27, 2018 2:40 PM",
+        "device": {
+          "_id": "5e4515c0595d2f6689608e74",
+          "orgid": 100058574871,
+          "ip": "172.168.1.191",
+          "mac": "00-07-E9-01-6E-20",
+          "serial": 12562133784734986000
+        },
+        "user": {
+          "userid": "UID935667",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Tammy",
+            "lastname": "Cobb"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c08c64ebf67d0cd989",
+          "name": {
+            "firstname": "Strong",
+            "lastname": "Duran"
+          },
+          "patientId": "PID73899161",
+          "dateofbirth": "Thursday, July 5, 1973 3:21 AM",
+          "ethnicity": "african",
+          "gender": "Male",
+          "company": "IDETICA",
+          "email": "strong.duran@idetica.biz",
+          "phone": "+49 (857) 570-3313",
+          "address": "802 Tehama Street, Durham, Federated States Of Micronesia, 8096",
+          "registered": "Thursday, August 25, 2016 5:17 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c054da29436dcb545f",
+        "type": "Height",
+        "value": "74.33",
+        "unit": "kg",
+        "precision": "57.83",
+        "date": "Monday, June 18, 2018 9:55 AM",
+        "created": "Monday, March 12, 2018 2:32 PM",
+        "device": {
+          "_id": "5e4515c047db2b411892c473",
+          "orgid": 1000122600976,
+          "ip": "172.168.1.192",
+          "mac": "00-60-E9-B9-6E-3B",
+          "serial": 91985100726626220000
+        },
+        "user": {
+          "userid": "UID611497",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Garza",
+            "lastname": "Carr"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c07a274e927c3298fc",
+          "name": {
+            "firstname": "Estella",
+            "lastname": "Mercado"
+          },
+          "patientId": "PID874013785",
+          "dateofbirth": "Sunday, August 11, 1985 2:08 PM",
+          "ethnicity": "caucasian",
+          "gender": "Other",
+          "company": "GYNKO",
+          "email": "estella.mercado@gynko.tv",
+          "phone": "+49 (873) 479-3727",
+          "address": "677 Cass Place, Crawfordsville, New Mexico, 8138",
+          "registered": "Monday, October 20, 2014 3:31 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c07660faf870dfaf3a",
+        "type": "Weight",
+        "value": "77.81",
+        "unit": "kg",
+        "precision": "66.08",
+        "date": "Monday, November 26, 2018 3:26 PM",
+        "created": "Monday, September 17, 2018 3:29 AM",
+        "device": {
+          "_id": "5e4515c0a7ae6fc319703965",
+          "orgid": 1000146908244,
+          "ip": "191.168.1.109",
+          "mac": "00-07-E9-01-04-3B",
+          "serial": 32665340809754280000
+        },
+        "user": {
+          "userid": "UID483833",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Alison",
+            "lastname": "Estes"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0ddd350b13ae51499",
+          "name": {
+            "firstname": "Fitzgerald",
+            "lastname": "Pennington"
+          },
+          "patientId": "PID197330733",
+          "dateofbirth": "Sunday, July 20, 1975 10:55 PM",
+          "ethnicity": "african",
+          "gender": "Female",
+          "company": "DAYCORE",
+          "email": "fitzgerald.pennington@daycore.com",
+          "phone": "+49 (898) 495-2425",
+          "address": "347 Grove Street, Nanafalia, Mississippi, 9217",
+          "registered": "Wednesday, August 29, 2018 3:59 AM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c0d755412ea86b97f9",
+        "type": "oxygen",
+        "value": "69.36",
+        "unit": "%",
+        "precision": "61.82",
+        "date": "Monday, August 5, 2019 12:22 AM",
+        "created": "Monday, November 11, 2019 12:40 PM",
+        "device": {
+          "_id": "5e4515c0c02212bac81b1cf1",
+          "orgid": 100056935045,
+          "ip": "172.168.1.233",
+          "mac": "00-50-E9-01-3F-2F",
+          "serial": 14719725079132144000
+        },
+        "user": {
+          "userid": "UID245991",
+          "role": "Doctor",
+          "name": {
+            "firstname": "Nita",
+            "lastname": "Kennedy"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0323c1e4e8ecea79f",
+          "name": {
+            "firstname": "Ramsey",
+            "lastname": "Ware"
+          },
+          "patientId": "PID349979117",
+          "dateofbirth": "Thursday, April 22, 1982 12:33 AM",
+          "ethnicity": "african",
+          "gender": "Male",
+          "company": "AUSTECH",
+          "email": "ramsey.ware@austech.biz",
+          "phone": "+49 (826) 522-2165",
+          "address": "634 Cleveland Street, Riegelwood, Alabama, 3663",
+          "registered": "Friday, November 27, 2015 12:00 PM"
+        }
+      }
+    },
+    {
+      "measurement": {
+        "_id": "5e4515c08d3644410f45f6a3",
+        "type": "Weight",
+        "value": "98.52",
+        "unit": "m",
+        "precision": "83.34",
+        "date": "Friday, March 23, 2018 6:41 PM",
+        "created": "Wednesday, January 30, 2019 10:42 AM",
+        "device": {
+          "_id": "5e4515c0bc48012947314094",
+          "orgid": 100063366954,
+          "ip": "192.168.1.54",
+          "mac": "00-07-8B-B9-3F-3B",
+          "serial": 28565111458754486000
+        },
+        "user": {
+          "userid": "UID966724",
+          "role": "Trainer",
+          "name": {
+            "firstname": "Kristy",
+            "lastname": "Cummings"
+          }
+        },
+        "patient": {
+          "_id": "5e4515c0ebdc48b55a9a986c",
+          "name": {
+            "firstname": "Heidi",
+            "lastname": "Garner"
+          },
+          "patientId": "PID683709132",
+          "dateofbirth": "Thursday, November 30, 1967 7:04 PM",
+          "ethnicity": "caucasian",
+          "gender": "Other",
+          "company": "NORSUP",
+          "email": "heidi.garner@norsup.net",
+          "phone": "+49 (892) 466-2362",
+          "address": "447 Lee Avenue, Alfarata, West Virginia, 9731",
+          "registered": "Monday, August 3, 2015 1:05 PM"
+        }
+      }
+    }
+  ]
